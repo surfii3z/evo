@@ -1,3 +1,5 @@
+To convert between each format, [link](https://github.com/MichaelGrupp/evo/issues/3#issuecomment-342575800)
+
 # evo 
 
 ***Python package for the evaluation of odometry and SLAM***
